@@ -1,3 +1,6 @@
+# ignore single file
 new-file.txt
 
-bin
+bin/
+
+*.tmp
